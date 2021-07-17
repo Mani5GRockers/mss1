@@ -39,6 +39,7 @@
 - Shell and Executor
 - Torrent search Supported:
 ```
+```
 
 # Features supported:
 <details>
