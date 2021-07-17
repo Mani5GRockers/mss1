@@ -25,9 +25,9 @@
 - Mirror Download logo 〘 〙& File Size added - https://gitlab.com/Mani5GRockers/slam-mirrorbot-v16-07-2021/-/blob/master/bot/helper/ext_utils/bot_utils.py
 - token.pickle added (Owen Verification) https://console.developers.google.com/apis/credentials OAuth API credential file download and rename file credentials.json to token.pickle convert @TokenPickle_Bot - https://gitlab.com/Mani5GRockers/slam-mirrorbot-v16-07-2021/-/tree/master
 - one day upload 75TB more account.zip added, Google service accounts 100 json to not for folder zip, account open and select 100 files add Zip Done (Owen Verification) and cmd use - https://gitlab.com/Mani5GRockers/slam-mirrorbot-v16-07-2021/-/tree/master
--
-- 
-- 
+-ALL File format supported for extraction ZIP, RAR,TAR, 7Z, ISO, DEB & MORE ADD ANY OTHER EASY https://gitlab.com/Mani5GRockers/slam-mirrorbot-v16-07-2021/-/blob/master/bot/helper/ext_utils/fs_utils.py LEAVE ALREDY ADDED JUST supported for extraction LIST INSIDE
+- SUPPORTED WEBSITE DIRRECT LINK LIST https://gitlab.com/Mani5GRockers/slam-mirrorbot-v16-07-2021/-/edit/master/bot/helper/mirror_utils/download_utils/direct_link_generator.py ADD ANY SITE
+- ADD DEAD TORRENT SEED AND PEERS MSG CHANGE ME https://gitlab.com/Mani5GRockers/slam-mirrorbot-v16-07-2021/-/edit/master/bot/helper/mirror_utils/download_utils/aria2_download.py
 - 
 - 
 - 
