@@ -32,9 +32,9 @@ class AriaDownloadHelper(DownloadHelper):
                     gdrive = GoogleDriveHelper(None)
                     smsg, button = gdrive.drive_list(sname)
                 if smsg:
-                    dl.getListener().onDownloadError(f'File/Folder already available in Drive.\n\n')
+                    dl.getListener().onDownloadError(f'This File/Folder already available in Drive 👇\n\n')
                     aria2.remove([download], force=True)
-                    sendMarkup("Here are the search results:", dl.getListener().bot, dl.getListener().update, button)
+                    sendMarkup("✅ Here are the search results: ✅", dl.getListener().bot, dl.getListener().update, button)
                     return
             if TORRENT_DIRECT_LIMIT is not None or TAR_UNZIP_LIMIT is not None:
                 limit = None
@@ -86,7 +86,12 @@ class AriaDownloadHelper(DownloadHelper):
         sleep(4)
         dl = getDownloadByGid(gid)
         if dl: 
-            dl.getListener().onDownloadError('Dead torrent!')
+            dl.getListener().onDownloadError('🔘 Reason:
+➩ 𝘠𝘰𝘶𝘳 𝘛𝘰𝘳𝘳𝘦𝘯𝘵 𝘪𝘴 𝘋𝘦𝘢𝘥.
+
+★ There is no SEED in the link you provided
+
+⛔️ 𝑷𝒍𝒆𝒂𝒔𝒆 𝒄𝒉𝒆𝒄𝒌 𝒚𝒐𝒖𝒓 𝒍𝒊𝒏𝒌! 𝑩𝒆𝒇𝒐𝒓𝒆 𝑴𝒊𝒓𝒓𝒐𝒓')
 
     @new_thread
     def __onDownloadError(self, api, gid):
