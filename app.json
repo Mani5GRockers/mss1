@@ -153,7 +153,7 @@
         "required": false
       },
       "IMAGE_URL": {
-        "description": "Show Image/Logo in /start message, Use telegra.ph or any direct link image.",
+        "description": "description": "Show Image/Logo in /start message, Use telegra.ph or any direct link image.",
         "value": "https://telegra.ph/file/db03910496f06094f1f7a.jpg",
         "required": false
        },
