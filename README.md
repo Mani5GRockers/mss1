@@ -20,11 +20,12 @@
 
 # My owen Edit Additional Features
 
-## Additional Features Added my project:
-- Mirror Download logo added - https://gitlab.com/Mani5GRockers/slam-mirrorbot-v16-07-2021/-/blob/master/bot/helper/ext_utils/bot_utils.py
-- token.pickle added (Owen Verification) credentials.json to token.pickle convert @TokenPickle_Bot - https://gitlab.com/Mani5GRockers/slam-mirrorbot-v16-07-2021/-/tree/master
+## Additional Features Added my project Extra Added:
+-〘〙⛔️🛡🔘➩★🔐🔒🔍📝🎁🔑🦠🧲📷📸📡📶✅♾🔺🟢🔴🟡🔔💬♥️☸️⚛️✉️⚙️⚖️☁️🏆🎬🎼⚓️🚀💿📗📕📙❌🚫💯📁✅♻️🔰⛳️🌎🥳⏱📀💿🎥📽🚦🚥📤📥📸📷🖥⏰⌛️📷⚡️
+- Mirror Download logo 〘 〙& File Size added - https://gitlab.com/Mani5GRockers/slam-mirrorbot-v16-07-2021/-/blob/master/bot/helper/ext_utils/bot_utils.py
+- token.pickle added (Owen Verification) https://console.developers.google.com/apis/credentials OAuth API credential file download and rename file credentials.json to token.pickle convert @TokenPickle_Bot - https://gitlab.com/Mani5GRockers/slam-mirrorbot-v16-07-2021/-/tree/master
 - one day upload 75TB more account.zip added, Google service accounts 100 json to not for folder zip, account open and select 100 files add Zip Done (Owen Verification) and cmd use - https://gitlab.com/Mani5GRockers/slam-mirrorbot-v16-07-2021/-/tree/master
-- 
+-
 - 
 - 
 - 
