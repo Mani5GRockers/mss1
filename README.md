@@ -1,4 +1,4 @@
-[![Slam](https://telegra.ph/file/5625bbbd58a7d3524d283.jpg)](https://bitly.awslink.in/mani5grockers)
+[![Slam](https://telegra.ph/file/3787790f0aacad8794f7f.jpg)](https://bitly.awslink.in/mani5grockers)
 
 # Slam Mirror Bot
 ![GitHub Repo stars](https://img.shields.io/github/stars/breakdowns/slam-mirrorbot?color=blue&style=flat)
