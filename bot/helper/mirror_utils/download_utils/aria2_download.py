@@ -34,7 +34,7 @@ class AriaDownloadHelper(DownloadHelper):
                 if smsg:
                     dl.getListener().onDownloadError(f'This File/Folder already available in Drive 👇\n\n')
                     aria2.remove([download], force=True)
-                    sendMarkup("✅ Here are the search results: ✅", dl.getListener().bot, dl.getListener().update, button)
+                    sendMarkup("👇✅ Search results: Yes ✅", dl.getListener().bot, dl.getListener().update, button)
                     return
             if TORRENT_DIRECT_LIMIT is not None or TAR_UNZIP_LIMIT is not None:
                 limit = None
