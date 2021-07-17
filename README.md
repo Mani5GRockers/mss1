@@ -18,26 +18,25 @@
 
 **Slam Mirror Bot** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
 
-# My Edit Additional Features :
+# My owen Edit Additional Features
 
-## Additional Features Added 
+## Additional Features Added my project:
 - Mirror Download logo added - https://gitlab.com/Mani5GRockers/slam-mirrorbot-v16-07-2021/-/blob/master/bot/helper/ext_utils/bot_utils.py
+- token.pickle added
+- account.zip added, Google service accounts 100 json to not for folder zip, account open and select 100 files add Zip Done
 - 
-- Get detailed info about replied media (Only for Telegram file)
-- Stop duplicate cloning Google Drive & mirroring Mega support
-- Tar/Unzip Google Drive link support
-- Speedtest with picture results
-- Sudo with Database support
-- Multiple Trackers support
-- Check Heroku dynos stats
-- Extracting **tar.xz** support
-- Heroku config support
-- Custom Image support
-- Custom Progress bar
-- Counting file/folder
-- View Link button
-- Shell and Executor
-- Torrent search Supported:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
 ```
 ```
 
