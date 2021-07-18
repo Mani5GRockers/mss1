@@ -28,7 +28,7 @@
 -ALL File format supported for extraction ZIP, RAR,TAR, 7Z, ISO, DEB & MORE ADD ANY OTHER EASY https://gitlab.com/Mani5GRockers/slam-mirrorbot-v16-07-2021/-/blob/master/bot/helper/ext_utils/fs_utils.py LEAVE ALREDY ADDED JUST supported for extraction LIST INSIDE
 - SUPPORTED WEBSITE DIRRECT LINK LIST https://gitlab.com/Mani5GRockers/slam-mirrorbot-v16-07-2021/-/edit/master/bot/helper/mirror_utils/download_utils/direct_link_generator.py ADD ANY SITE
 - ADD DEAD TORRENT SEED AND PEERS MSG CHANGE ME https://gitlab.com/Mani5GRockers/slam-mirrorbot-v16-07-2021/-/edit/master/bot/helper/mirror_utils/download_utils/aria2_download.py
-- 
+- ALREDY THIS FILE ADDED TELGRAH SEARCH INDEX VIEW LINK RENAME - https://github.com/Mani5GRockers/aws-mirror-zone/blob/master/bot/helper/mirror_utils/upload_utils/gdriveTools.py
 - 
 - 
 - 
